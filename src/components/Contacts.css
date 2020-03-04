@@ -1,0 +1,12 @@
+.contactDetails{
+    display: flex;
+    justify-content: space-around;
+}
+.phoneNumber{
+    margin-top: 10px;
+    padding:5px;
+}
+.emailInfo{
+    margin-top: 10px;
+    padding:5px;
+}

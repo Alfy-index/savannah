@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text-block-4{
+    margin-top: 10px;
+}
+.text-block-4 > a{
+    padding:10px;
+    text-decoration: none;
+    text-align: center;
+}
+.text-block-4 > a:hover{
+    background: #B2D6FF;
+}

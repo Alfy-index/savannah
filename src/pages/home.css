@@ -1,0 +1,37 @@
+.image1 {
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.aboutComponent{
+    display: flex;
+    justify-content: space-between;
+
+}
+.about{
+    text-align: center;
+}
+
+.contactInfo{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:#ffffff;
+}
+.loginSignUp{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.div-col1{
+    margin-right: 5px;
+}
+.divcol2{
+    margin-right: 5px;
+}
+.featuredSection{
+    display: flex;
+    margin-top: 10px;
+}
+.latestListing{
+    text-align: center;
+}
